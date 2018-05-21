@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c0f807e8-24ed-4ef8-8ac2-9f0ae9084bbf" name="Default" comment="" />
+    <list default="true" id="c0f807e8-24ed-4ef8-8ac2-9f0ae9084bbf" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -131,108 +133,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/autoprefixer/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/base/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/bonjour/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/braces/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/cacache/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/cacheable-request/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/caniuse-api/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/class-utils/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/cli-table/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/cryptiles/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/css-selector-tokenizer/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/define-property/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/dir-glob/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/execa/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/expand-brackets/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/expand-range/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/extend-shallow/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/extglob/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/fill-range/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/follow-redirects/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/fsevents/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/gh-got/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/glob-all/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/glob-base/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/glob-parent/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/globby/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/has-values/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/icss-utils/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/inquirer/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/is-accessor-descriptor/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/is-data-descriptor/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/is-descriptor/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/is-number/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/is-observable/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/is-odd/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/jscodeshift/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/listr-update-renderer/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/listr-verbose-renderer/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/listr/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/load-json-file/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/log-symbols/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/log-update/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/mem-fs-editor/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/meow/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/mixin-deep/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/mixin-object/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/node-gyp/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/node-sass/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/nomnom/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/object-copy/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/object.omit/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/ora/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/original/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/parse-glob/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/path-type/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/postcss-merge-rules/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/postcss-modules-extract-imports/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/postcss-modules-local-by-default/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/postcss-modules-scope/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/postcss-modules-values/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/postcss/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/randomatic/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/raw-body/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/read-pkg-up/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/recast/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/reduce-css-calc/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/reduce-function-call/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/regjsparser/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/resolve/test/resolver/symlinked/_/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/schema-utils/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/scss-tokenizer/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/set-value/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/shallow-clone/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/snapdragon-node/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/snapdragon-util/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/snapdragon/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/sockjs-client/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/static-extend/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/temp/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/to-object-path/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/true-case-path/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/uglify-es/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/uglifyjs-webpack-plugin/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/union-value/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/unset-value/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/uri-js/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/url-parse-lax/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/url-parse/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/url/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/util/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/vinyl-file/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/webpack-addons/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/webpack-cli/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/webpack-dev-middleware/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/webpack-dev-server/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/webpack-log/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/webpack-sources/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/webpack/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/yargs-parser/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/yargs/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/yeoman-environment/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules 13.14.10/yeoman-generator/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
@@ -255,7 +156,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -268,6 +168,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -326,12 +227,13 @@
       <workItem from="1526839476776" duration="200000" />
       <workItem from="1526839756921" duration="131000" />
       <workItem from="1526839980964" duration="95000" />
-      <workItem from="1526860164436" duration="142000" />
+      <workItem from="1526860164436" duration="491000" />
+      <workItem from="1526860709354" duration="67000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53493000" />
+    <option name="totallyTimeSpent" value="53909000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="694" extended-state="0" />
@@ -340,8 +242,8 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3305509" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
